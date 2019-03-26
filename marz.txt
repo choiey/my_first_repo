@@ -1,2 +1,3 @@
 Mars is a red planet.
 Mars is named after the Greek God of war.
+Mars has a moon.
